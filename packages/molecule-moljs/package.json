@@ -1,6 +1,6 @@
 {
   "name": "@openchemistry/molecule-moljs",
-  "version": "0.3.118",
+  "version": "0.3.119",
   "description": "Stencil Wrapper for 3Dmoljs with support for cjson chemical data",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",
